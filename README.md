@@ -6,7 +6,7 @@
 
 ## Dataset
 
-- [Customer.csv](url)
+- [Customer.csv](https://github.com/poojarao76/Credit_card_financial_report/blob/main/customer.csv)
     - Client_Num: A unique identifier for each customer.
     - Customer_Age: The age of the customer.
     - Gender: The gender of the customer.
@@ -23,7 +23,7 @@
     - Income: The income of the customer.
     - Cust_Satisfaction_Score: The satisfaction score given by the customer.
 
-- [credit_card.csv](url)
+- [credit_card.csv](https://github.com/poojarao76/Credit_card_financial_report/blob/main/credit_card.csv)
     - Client_Num: A unique identifier for each customer.
     - Card_Category: The category of the credit card (e.g., rewards, travel, cashback).
     - Annual_Fees: The annual fees associated with the credit card.
